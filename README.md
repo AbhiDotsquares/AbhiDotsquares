@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhiDotsquares
+- 👋 Hi, I’m Abhishek Sharma
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning VueJs
 - 📫 How to reach me abhishek.s@dotsquares.com
