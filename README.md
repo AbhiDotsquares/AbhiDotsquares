@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhiDotsquares
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning VueJs
 - 📫 How to reach me abhishek.s@dotsquares.com
 
 <!---
